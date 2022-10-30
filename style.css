@@ -138,10 +138,6 @@ button:hover {
     background-color: var(--VeryPaleCyan);
   }
 
-  /* .logoContainer{
-    background-color: darkslateblue;
-  } */
-
   .logoContainer .logo {
     height: 2rem;
     padding: 0 2rem;
@@ -401,7 +397,6 @@ button:hover {
 
   .aboutLinks .link {
     width: 6rem;
-    /* background-color: darkviolet; */
   }
 
   .linkset {
